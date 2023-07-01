@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaio-alemao
+- 👋 Hi, I’m @kaio-figueiredo
 - 👀 I’m interested in websites, video games and edition
 - 🌱 I’m currently learning basic programing
 - 💞️ I’m looking to collaborate on anything
